@@ -1,4 +1,4 @@
-<Window x:Class="dermaClinic.AboutUs"
+    <Window x:Class="dermaClinic.AboutUs"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="About DermaCare" Height="900" Width="1500" 
